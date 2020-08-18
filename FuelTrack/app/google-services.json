@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481641861055",
+    "firebase_url": "https://fueltechsystem.firebaseio.com",
+    "project_id": "fueltechsystem",
+    "storage_bucket": "fueltechsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481641861055:android:a017ad2b7c1629e4891b0a",
+        "android_client_info": {
+          "package_name": "com.example.fueltrackv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481641861055-iva7pa98m6feo379mddqjuv76g4qkaf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fueltrackv1",
+            "certificate_hash": "6ea6427d87b359369de5f898f62dc85458f29d98"
+          }
+        },
+        {
+          "client_id": "481641861055-kfkbfgemeeeufuski291ofvcm711fdff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4oednECDXembk1ox9P7c2E2x2ZhWQGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481641861055-kfkbfgemeeeufuski291ofvcm711fdff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

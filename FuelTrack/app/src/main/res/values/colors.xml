@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#cfd8dc</color>
+    <color name="colorPrimaryDark">#9ea7aa</color>
+    <color name="colorPrimaryLight">#fff</color>
+    <color name="colorAccent">#babdbe</color>
+    <color name="secondaryColor">#00b0ff</color>
+    <color name="secondaryLightColor">#69e2ff</color>
+    <color name="secondaryDarkColor">#0081cb</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#263238</color>
+
+
+
+    <color name="confirmedBgColor">#FFEBEE</color>
+    <color name="activeBgColor">#E6F4FF</color>
+    <color name="recoveredBgColor">#E8F5E9</color>
+    <color name="deceasedBgColor">#EEEEEE</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FuelTrackV1</string>
+
+    <string-array name="states">
+        <item>Ariyalur</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kanchipuram</item>
+        <item>Kanniyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambular</item>
+        <item>Pudukkottai</item>
+        <item>Ramnathapuram</item>
+        <item>Salem</item>
+        <item>Sivagangai</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thoothukodi</item>
+        <item>Tiruvarur</item>
+        <item>Tirunelveli</item>
+        <item>Tiruchirappalli</item>
+        <item>Tiruvallur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvannamalai</item>
+        <item>Vellore</item>
+        <item>Villupuram</item>
+        <item>Virudhnagar</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
